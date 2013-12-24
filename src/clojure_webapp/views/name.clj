@@ -6,4 +6,5 @@
     [:head
       [:title "Hello!"]]
     [:body
-      [:h1 (str "Hello " name "!!")]]))
+      [:h1 (str "Hello " name "!!")]
+      [:p "bacon!"]]))
